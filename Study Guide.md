@@ -31,14 +31,14 @@
 
 ## 1. Introduction to Artificial Intelligence
 
-### 1.1 Defining AI and its Purpose
+**1.1 Defining AI and its Purpose**
 
 Artificial intelligence (AI) is a foundational technology that is supercharging other scientific fields and, like electricity and the internet, has the potential to transform societies, economies, and politics worldwide.
 
 **Source:** <https://setr.stanford.edu/technology/artificial-intelligence/2026>
 **Authors:** Co-chairs Condoleezza Rice, Jennifer Widom, and Amy Zegart. Director and Editor in Chief Herbert S. Lin. Managing Editor Martin Giles.
 
-### 1.2 The Societal and Economic Impact of AI
+**1.2 The Societal and Economic Impact of AI**
 
 The real-world potential of AI is immense. Applications of AI include diagnosing diseases, personalizing social media feeds, executing sophisticated data analyses for weather modeling and powering the chatbots that handle our customer support requests. AI-powered robots can even assemble cars and minimize radiation from wildfires.
 
