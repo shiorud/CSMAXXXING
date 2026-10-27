@@ -112,6 +112,96 @@ The applications possessing Super AI capabilities will have evolved beyond the p
 *IBM Data and AI Team, 2024*
 **Source:** <https://www.ibm.com/think/topics/artificial-intelligence-types>
 
+Instructions: Answer all 10 questions. Choose one answer for each multiple-choice question. For
+short-answer questions, answer in one or two sentences.
+1. Multiple choice: Which type of AI is described as the only type that exists today in the study
+guide?
+
+A. Super AI
+
+B. Artificial General Intelligence (AGI)
+
+C. Artificial Narrow AI
+
+D. Artificial Superintelligence
+
+3. Multiple choice: Which statement best describes Artificial Narrow AI (Weak AI)?
+   
+A. It can perform any intellectual task a human can.
+
+B. It is designed or trained for a single or narrow task.
+
+C. It always surpasses human cognition.
+
+D. It has its own beliefs and desires.
+
+5. Identify the type: A virtual assistant such as Siri or Amazon’s Alexa is given a defined task and
+cannot operate beyond that task. Which type of AI is this?
+
+A. Super AI
+
+B. Artificial General Intelligence
+
+C. Artificial Narrow AI
+
+D. None of the above
+
+7. Multiple choice: According to the study guide, why is ChatGPT classified as Narrow AI?
+   
+A. It can perform every human intellectual task.
+
+B. It is considered limited to text-based chat.
+
+C. It surpasses human cognition in all areas.
+
+D. It possesses independent desires.
+
+9. Short answer: What is Artificial General Intelligence (AGI), and what key ability would it have?
+Answer: ________________________________________________________________
+
+11. True or false: Artificial General Intelligence is described in the study guide as a technology that
+already exists.
+Answer: ________________________________________________________________
+
+13. Scenario: An AI system can use what it has learned to perform new intellectual tasks in different
+contexts without humans training the underlying models. Which type of AI does this describe?
+Answer: ________________________________________________________________
+
+15. Multiple choice: Which description best matches Super AI?
+    
+A. It performs only one narrow task.
+
+B. It can perform any intellectual task that a human can.
+
+C. Its cognitive abilities would surpass those of human beings.
+
+D. It is the only type of AI that exists today.
+
+18. Compare: State one difference between Artificial Narrow AI and Artificial General Intelligence
+(AGI).
+Answer: ________________________________________________________________
+
+20. True or false: Super AI is theoretical and, if realized, would have cognitive abilities that surpass
+human beings.
+Answer: ________________________________________________________________
+
+ANSWERS
+
+1. C — Artificial Narrow AI.
+2. B — It can be trained to perform a single or narrow task and cannot perform outside its defined
+task.
+3. C — Artificial Narrow AI.
+4. B — The study guide describes ChatGPT as limited to the single task of text-based chat.
+5. AGI is theoretical and could use previous learnings and skills to accomplish new tasks in different
+contexts, and perform any intellectual task that a human can.
+6. False — AGI is described as a theoretical concept.
+7. Artificial General Intelligence (AGI).
+8. C — Its cognitive abilities would surpass those of human beings.
+9. Narrow AI is limited to a single or narrow task; AGI would be able to learn and perform any
+intellectual task that a human can, including in new contexts.
+10. True.
+
+
 ---
 
 ## 4. Practical Applications & Technologies
