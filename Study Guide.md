@@ -125,7 +125,7 @@ C. Artificial Narrow AI
 
 D. Artificial Superintelligence
 
-3. Multiple choice: Which statement best describes Artificial Narrow AI (Weak AI)?
+2. Multiple choice: Which statement best describes Artificial Narrow AI (Weak AI)?
    
 A. It can perform any intellectual task a human can.
 
@@ -135,7 +135,7 @@ C. It always surpasses human cognition.
 
 D. It has its own beliefs and desires.
 
-5. Identify the type: A virtual assistant such as Siri or Amazon’s Alexa is given a defined task and
+3. Identify the type: A virtual assistant such as Siri or Amazon’s Alexa is given a defined task and
 cannot operate beyond that task. Which type of AI is this?
 
 A. Super AI
@@ -146,7 +146,7 @@ C. Artificial Narrow AI
 
 D. None of the above
 
-7. Multiple choice: According to the study guide, why is ChatGPT classified as Narrow AI?
+4. Multiple choice: According to the study guide, why is ChatGPT classified as Narrow AI?
    
 A. It can perform every human intellectual task.
 
@@ -156,18 +156,18 @@ C. It surpasses human cognition in all areas.
 
 D. It possesses independent desires.
 
-9. Short answer: What is Artificial General Intelligence (AGI), and what key ability would it have?
+5. Short answer: What is Artificial General Intelligence (AGI), and what key ability would it have?
 Answer: ________________________________________________________________
 
-11. True or false: Artificial General Intelligence is described in the study guide as a technology that
+6. True or false: Artificial General Intelligence is described in the study guide as a technology that
 already exists.
 Answer: ________________________________________________________________
 
-13. Scenario: An AI system can use what it has learned to perform new intellectual tasks in different
+7. Scenario: An AI system can use what it has learned to perform new intellectual tasks in different
 contexts without humans training the underlying models. Which type of AI does this describe?
 Answer: ________________________________________________________________
 
-15. Multiple choice: Which description best matches Super AI?
+8. Multiple choice: Which description best matches Super AI?
     
 A. It performs only one narrow task.
 
@@ -177,11 +177,11 @@ C. Its cognitive abilities would surpass those of human beings.
 
 D. It is the only type of AI that exists today.
 
-18. Compare: State one difference between Artificial Narrow AI and Artificial General Intelligence
+9. Compare: State one difference between Artificial Narrow AI and Artificial General Intelligence
 (AGI).
 Answer: ________________________________________________________________
 
-20. True or false: Super AI is theoretical and, if realized, would have cognitive abilities that surpass
+10. True or false: Super AI is theoretical and, if realized, would have cognitive abilities that surpass
 human beings.
 Answer: ________________________________________________________________
 
