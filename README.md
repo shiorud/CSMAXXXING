@@ -12,7 +12,7 @@ Overview: A set of engaging and entertaining learning materials that explores th
 | :--- | :--- | :--- | :--- | :--- |
 |Sean Dylan Herlyanto | 1820262084 | 陈家耀 | CEO | sean9secret-png
 |Kenji Sukilim | 1820262079 | 林绅宜 | CIO | kenji-sukilim
-|Chrysander Hayden Gunawan | 1820262126 | 徐泽豪 |Designer | jshgunawan19-pixel
+|Chrysander Hayden Gunawan | 1820262126 | 徐泽豪 |Designer | lexlordne-sys
 |Saviero Shioru Dimulia | 1820262033 | 李如意 | CTO | shiorud
 |Maxienno Jose Carvallo | 1820262093 | 廖伟斌 | Tester | maxiennojosecarvallo-crypto
 
