@@ -1,4 +1,4 @@
-1.1 Defining AI and its Purpose
+###1.1 Defining AI and its Purpose 
 
 Core Definition: Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, specifically computer systems, to execute complex cognitive tasks.
 
