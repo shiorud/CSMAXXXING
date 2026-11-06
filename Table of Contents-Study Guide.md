@@ -21,6 +21,13 @@
 - Learning Capability & Unstructured Data Handling
 - Stability vs. Scalability
 - Efficiency, 24/7 Availability, and Workforce Implications
-### 6. Interactive Activity & Practical Sandbox
-- Live Demonstration: Generative AI Tool Showcase
-- Knowledge Check: Interactive Review Activity (Kahoot Quiz)
+### 6. Symbolic AI: Reasoning with Rules
+- What is Symbolic AI?
+- Strengths and limits
+### 7. Connectionist AI: Learning from Data
+- What is connectionism?
+- How does it learn?
+- Symbolic vs connectionist
+### 8. Behaviourist AI: Acting and Learning from Rewards
+- Behaviour-based AI
+- Reinforcement learning
