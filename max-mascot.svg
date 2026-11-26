@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240">
+  <!-- "Max the Agent": original CSMAXXXING mascot -->
+  <line x1="100" y1="30" x2="100" y2="8" stroke="#1F1F23" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="100" cy="8" r="7" fill="#E8412F"/>
+  <rect x="45" y="28" width="110" height="88" rx="16" fill="#1F1F23"/>
+  <rect x="60" y="50" width="30" height="26" rx="5" fill="#FFFFFF"/>
+  <rect x="110" y="50" width="30" height="26" rx="5" fill="#FFFFFF"/>
+  <rect x="70" y="58" width="12" height="14" rx="3" fill="#1F1F23"/>
+  <rect x="120" y="58" width="12" height="14" rx="3" fill="#1F1F23"/>
+  <path d="M78 94 Q100 108 122 94" stroke="#E8412F" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <rect x="55" y="122" width="90" height="78" rx="12" fill="#E8412F"/>
+  <path d="M82 140 L118 180 M118 140 L82 180" stroke="#FFF4F0" stroke-width="10" stroke-linecap="round"/>
+  <rect x="22" y="128" width="28" height="18" rx="8" fill="#1F1F23" transform="rotate(-35 36 137)"/>
+  <rect x="150" y="128" width="28" height="18" rx="8" fill="#1F1F23" transform="rotate(35 164 137)"/>
+  <rect x="68" y="202" width="22" height="30" rx="6" fill="#1F1F23"/>
+  <rect x="110" y="202" width="22" height="30" rx="6" fill="#1F1F23"/>
+</svg>
