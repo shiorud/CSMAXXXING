@@ -1,0 +1,66 @@
+@page { size: A4; margin: 20mm 17mm 20mm 17mm; }
+:root{--red:#E8412F;--ink:#1F1F23;--blue:#2F6FDE;--amber:#F2A93B;--green:#2BA36B;--soft:#FFF4F0;--pale:#F4F5F7;--grey:#6B6B75}
+html{font-family:"Inter","DejaVu Sans",Arial,sans-serif;font-size:10.8pt;line-height:1.5;color:var(--ink)}
+body{margin:0}
+h1{font-size:23pt;color:var(--ink);border-left:10px solid var(--red);padding:6px 0 6px 14px;margin:0 0 14px;break-before:page;background:var(--soft)}
+h1.title{display:none}
+h2{font-size:15pt;color:var(--red);margin:20px 0 6px;break-after:avoid}
+h3{font-size:12.5pt;margin:14px 0 4px;break-after:avoid}
+p{margin:6px 0}
+a{color:var(--blue);text-decoration:none;word-break:break-word}
+code{font-family:"DejaVu Sans Mono",monospace;font-size:9.5pt;background:var(--pale);padding:1px 4px;border-radius:3px}
+pre{background:var(--ink);color:#f5f5f5;padding:10px 12px;border-radius:8px;font-size:9.5pt;break-inside:avoid;white-space:pre-wrap}
+pre code{background:none;color:inherit;padding:0}
+table{border-collapse:collapse;width:100%;margin:8px 0 12px;font-size:9.8pt;break-inside:auto}
+tr{break-inside:avoid}
+th{background:var(--ink);color:#fff;text-align:left;padding:6px 8px}
+td{border-bottom:1px solid #ddd;padding:5px 8px;vertical-align:top}
+tbody tr:nth-child(even) td{background:#FAFAFB}
+figure{margin:12px 0 14px;text-align:center;break-inside:avoid}
+figure img{max-width:100%;max-height:105mm;border-radius:4px}
+img[src*="screenshots"]{border:1px solid #ccc;box-shadow:0 1px 6px rgba(0,0,0,.12)}
+figcaption{font-size:9.3pt;color:var(--grey);margin-top:5px;text-align:left;border-left:3px solid var(--red);padding-left:8px}
+.box{border-radius:10px;padding:10px 14px 8px;margin:12px 0;break-inside:avoid;position:relative}
+.box::before{display:inline-block;font-weight:800;font-size:8.5pt;letter-spacing:.08em;padding:2px 8px;border-radius:4px;margin-bottom:4px;color:#fff}
+.box p:first-of-type{margin-top:2px}
+.mission{background:var(--ink);color:#fff;padding-left:86px;min-height:70px;background-image:url("../../assets/brand/max-mascot.png");background-repeat:no-repeat;background-size:58px;background-position:14px 12px}
+.mission strong{color:#FF8A78}
+.mission a{color:#9cc1ff}
+.mission::before{content:"MISSION";background:var(--red)}
+.keyidea{background:#EEF4FE;border-left:6px solid var(--blue)}
+.keyidea::before{content:"KEY IDEA";background:var(--blue)}
+.misconception{background:#FDE8E4;border-left:6px solid var(--red)}
+.misconception::before{content:"MISCONCEPTION";background:var(--red)}
+.example{background:#FFF7E6;border-left:6px solid var(--amber)}
+.example::before{content:"WORKED EXAMPLE";background:#C9831A}
+.lab{background:#E9F7F0;border:2px solid var(--green)}
+.lab::before{content:"LAB ACTIVITY";background:var(--green)}
+.lab ol{margin:4px 0 4px 18px;padding-left:4px}
+.hint{background:var(--pale);border-left:6px solid var(--grey);font-size:10pt}
+.hint::before{content:"HINT";background:var(--grey)}
+.max{background:var(--soft);border-left:6px solid var(--red)}
+.max::before{content:"MAX THE AGENT";background:var(--red)}
+.bridge{background:#F3F0FF;border-left:6px solid #6A4BD8}
+.bridge::before{content:"THE BIG PICTURE";background:#6A4BD8}
+blockquote{border-left:4px solid var(--red);margin:8px 0;padding:4px 12px;background:var(--soft);font-weight:600}
+section.answers h2, h2.answers{color:var(--green)}
+section.answers{border-top:3px dashed var(--green);margin-top:22px;padding-top:4px}
+/* cover */
+.cover{height:250mm;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;break-after:page}
+.cover img.logo{width:70mm}
+.cover h1{break-before:auto;border:none;background:none;font-size:34pt;margin:10px 0 0;padding:0}
+.cover .sub{font-size:15pt;color:var(--red);font-weight:700;margin:6px 0 18px}
+.cover img.max{width:34mm;margin:8px}
+.cover table{width:120mm;margin:18px auto 0;font-size:10.5pt}
+.cover td{text-align:left}
+/* toc */
+nav#TOC{break-after:page}
+nav#TOC::before{content:"Contents";display:block;font-size:23pt;font-weight:800;border-left:10px solid var(--red);background:var(--soft);padding:6px 14px;margin-bottom:10px}
+nav#TOC ul{list-style:none;padding-left:0;margin:0}
+nav#TOC > ul > li{margin-top:7px;font-weight:700}
+nav#TOC > ul > li > ul{padding-left:18px;font-weight:400;columns:1}
+nav#TOC li li{font-size:9.6pt;line-height:1.45}
+nav#TOC a{color:var(--ink)}
+.toc-note{font-size:9pt;color:var(--grey)}
+nav#TOC > ul{columns:2;column-gap:10mm}
+nav#TOC > ul > li{break-inside:avoid}
